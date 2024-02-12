@@ -1,4 +1,4 @@
-analysis of various data 
+analysis on various data 
 
 Data Cleaning and Preprocessing:
 Identify and handle missing values, outliers, and inconsistencies.
